@@ -1,4 +1,4 @@
-##Funkcionalnosti
+## H2 Funkcionalnosti
 
 1. Rezervacija mize *(Zaradi morebitne gneče lahko uporabnik mizo rezervira vnaprej)*
 2. Pregled menija *(Uporabnik si lahko pogleda izbiro hrane)*
