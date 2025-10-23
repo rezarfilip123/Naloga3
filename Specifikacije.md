@@ -1,7 +1,7 @@
 # PLOH
 
 
-![alt text](PLOH.jpg)
+![alt text](https://www.slovenia.info/uploads/zgodbe/junij_2022/grajske_restavracije/michelin2024_1_star_mobileready.png)
 
 | Ime           | Vloga   |
 | :---          | :----   |    
