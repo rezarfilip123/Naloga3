@@ -11,7 +11,9 @@
 
 
 
-''' HTML
+``` html
+
 <h1>rastavracija PLOH</h1>
 <p1>PLOH je zelo prestižna in luksizna restavracija</p1>
-'''
+
+```
