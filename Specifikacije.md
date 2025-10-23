@@ -1,4 +1,4 @@
-### Izgled
+# Izgled
 - Velik naslov
 - **Barvno**
 - **Pregledna glava**
