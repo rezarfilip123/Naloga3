@@ -1,3 +1,8 @@
+### Izgled
+- Velik naslov
+- **Barvno**
+- **Pregledna glava**
+- Noga mora vsebovati kontaktne podatke
 ## Funkcionalnosti
 
 1. Rezervacija mize *(Zaradi morebitne gneče lahko uporabnik mizo rezervira vnaprej)*
@@ -25,3 +30,4 @@
 
 ```
 
+[Spletna stran za izgled](https://grof.eu/sl/grof-restaurant)
